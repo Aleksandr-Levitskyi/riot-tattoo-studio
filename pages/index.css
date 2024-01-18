@@ -1,0 +1,35 @@
+/* normalize */
+@import url(../vendor/normalize.css);
+
+/* fonts */
+@import url(../vendor/fonts.css);
+
+/* page styles */
+@import url(../blocks/page/page.css);
+
+/* course-section*/
+@import url(../blocks/course-section/course-section.css);
+@import url(../blocks/course-section/__title/course-section__title.css);
+@import url(../blocks/course-section/__subtitle/course-section__subtitle.css);
+
+/* skills-section */
+@import url(../blocks/skills-section/skills-section.css);
+@import url(../blocks/skills-section/__title/skills-section__title.css);
+@import url(../blocks/skills-section/__list/skills-section__list.css);
+@import url(../blocks/skills-section/__item/skills-section__item.css);
+
+/* list-card from skills-section */
+@import url(../blocks/list-card/__label/list-card__label.css);
+
+/* -------------------------Components------------------------ */
+
+/* wrapper styles */
+@import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/wrapper/_type/_overlay/wrapper_type_overlay.css);
+@import url(../blocks/wrapper/_color/_magenta/wrapper_color_magenta.css);
+@import url(../blocks/wrapper/_color/_white/wrapper_color_white.css);
+@import url(../blocks/wrapper/_color/_black/wrapper_color_black.css);
+
+/* button styles */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_section/_course/button_section_course.css);
