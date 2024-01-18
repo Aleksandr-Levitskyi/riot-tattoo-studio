@@ -1,0 +1,9 @@
+.skills-section__list {
+    margin: 50px 0 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}

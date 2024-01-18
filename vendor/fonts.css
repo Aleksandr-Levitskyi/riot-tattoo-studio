@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Involve';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Involve/Involve-Regular.woff2) format('woff2'),
+        url(../fonts/Involve/Involve-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Involve';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/Involve/Involve-Medium.woff2) format('woff2'),
+        url(../fonts/Involve/Involve-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Involve';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/Involve/Involve-Bold.woff2) format('woff2'),
+        url(../fonts/Involve/Involve-Bold.woff) format('woff');
+}

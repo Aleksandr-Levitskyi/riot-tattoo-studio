@@ -1,0 +1,20 @@
+.page {
+    max-width: 1280px;
+    min-width: 320px;
+
+    margin: 0 auto;
+    padding: 0;
+
+    font-family: 'Involve', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #333;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}

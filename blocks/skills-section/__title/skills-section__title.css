@@ -1,0 +1,9 @@
+.skills-section__title {
+    margin: 0 auto;
+    padding: 0;
+    width: fit-content;
+
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 1.2;
+}
